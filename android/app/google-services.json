@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137914816135",
+    "project_id": "walkheroyt-932fc",
+    "storage_bucket": "walkheroyt-932fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137914816135:android:1ce585209276142aaaca22",
+        "android_client_info": {
+          "package_name": "com.company_name.walkheroYT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28HEpWDuWXOgUmlxLwiey9a623vuMUY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
